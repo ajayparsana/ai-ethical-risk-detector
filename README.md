@@ -33,8 +33,6 @@ For questions, feedback, or licensing discussions, please contact:
 
 **EthixAI** is a smart, AI-powered tool that helps developers, product managers, and compliance teams **identify ethical risks** in AI systems early — before deployment, public release, or regulatory review.
 
-🚀 Paste your system’s description or use case, and EthixAI will analyze potential concerns like **bias**, **privacy**, **explainability**, and **regulatory risk**, returning clear recommendations and an overall ethical risk score.
-
 ---
 
 ## 🔍 Why EthixAI?
